@@ -1,2 +1,2 @@
 # Renterlets.com
-Local Rental Appication website for Buffalo students and residents
+Local Rental Appication website for Buffalo students and residents (in Works)
